@@ -1,4 +1,4 @@
-This a AI driven News summarizer where preprompt LLMS search through give websites and fetch news and shows them on web UI.
+This a AI driven News summarizer where pre-prompt LLMS search through given websites and fetch news and shows them on web UI.
 
 Language used is javascript. 
 
